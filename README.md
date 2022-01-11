@@ -2,7 +2,7 @@
 
 I'm Arief, a Machine Learning Engineer/Data Scientist.
 
-I work on cool projects every day. Unfortunately, I cannot share my work-related work here due to confidentiality nature of the work. However, when I have free time, I enjoy working on things outside my work:
+I work on cool projects every day. Unfortunately, I cannot share my work-related work here due to the confidentiality nature of the work. However, when I have free time, I enjoy working on things outside my work:
 
 - [`The Elements of Statistical Learning`](https://hastie.su.domains/ElemStatLearn/) book is, in my opinion, one of the must-read books if you are a data scientist. It provides thorough mathematical explanations of most of the important machine/statistical learning models. I have been working on deriving some of the algorithms and implementing them from scratch in Python. Check out the [repo](https://github.com/abkoesdw/The-Elements-of-Statistical-Learning-Python-Codes)
 
